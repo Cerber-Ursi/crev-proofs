@@ -36,3 +36,24 @@ comment: |-
 LRXgNw7CZ-DP5O9tJOWu-_drQfFa3rQEeMK9aypq0gvR0jw3BQH9XnpaafHiN08oxMgBN_d0izCyfdohHjU_BQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-11-27T18:52:32.353773424+07:00"
+from:
+  id-type: crev
+  id: GhxqQRJrtQ2QeTN8Cr0rIwTud07-g1kaUkPbbfMvSK0
+  url: "https://github.com/Cerber-Ursi/crev-proofs"
+ids:
+  - id-type: crev
+    id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+    url: "https://github.com/LucianoBestia/crev-proofs"
+trust: low
+comment: |-
+  I think we shouldn't blindly trust any crate, even from the language
+  developers. "strong" reviews without any thoroughness and/or understanding
+  can endanger the whole web of trust.
+----- SIGN CREV PROOF -----
+_u8X18xVs6pHMJui-vfkPLqAsbJ_FRW2pPUoNgwupbfuzwh7a6c_bxGZ7FYUdDxmgg4Ajn72p43MeocgixV9BA
+----- END CREV PROOF -----
+
